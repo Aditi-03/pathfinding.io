@@ -14,6 +14,9 @@ Inspired by [Pathfinding.JS](https://github.com/qiao/PathFinding.js)
 
 # references
  https://github.com/qiao/PathFinding.js 
+ 
  https://github.com/clementmihailescu/Pathfinding-Visualizer-Tutorial 
+ 
  https://github.com/bwnance/Pathfinding-Demo 
+ 
  https://github.com/clementmihailescu/Pathfinding-Visualizer
