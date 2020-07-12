@@ -1,12 +1,19 @@
 #  pathfinding algorithm implementation
-   Pathfinding
+   
+    this project is for  finding shortest path while avoiding obstacles
 
-Currently there are 6 path-finders bundled in this library, namely:
+Currently there are 5 path-finders bundled in this library, namely:
  - A*
- - Dijkstra
+ - Dijkstra 
  - greedy Best-First 
  - jump point search
  - Breadth First Search (BFS) 
 
 
-Inspired by [Pathfinding.JS](https://github.com/qiao/PathFinding.js) 
+Inspired by [Pathfinding.JS](https://github.com/qiao/PathFinding.js)   
+
+# references
+ https://github.com/qiao/PathFinding.js 
+ https://github.com/clementmihailescu/Pathfinding-Visualizer-Tutorial 
+ https://github.com/bwnance/Pathfinding-Demo 
+ https://github.com/clementmihailescu/Pathfinding-Visualizer
